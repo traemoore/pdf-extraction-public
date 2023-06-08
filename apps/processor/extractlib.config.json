@@ -1,0 +1,10 @@
+{
+  "std_out_logging": true,
+  "supported_file_types": [".pdf"],
+  "invalid_content_regexs": [],
+  "stop_words": [],
+  "keywords": {},
+  "keyword_synonyms": {},
+  "word_min_length": 2,
+  "exclude_pages": []
+}
